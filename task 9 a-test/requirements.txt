@@ -1,0 +1,8 @@
+fastapi
+sqlmodel
+uvicorn
+passlib[bcrypt]
+python-jose[cryptography]
+psycopg2-binary
+pytest
+httpx
